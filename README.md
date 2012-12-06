@@ -15,3 +15,7 @@ Indluded Folders:
 Also has a modified bat file to make the bridge between masm and JayPascal.
 
 2.	Pascal Test Programs: This folder contains some pascal source program. You may use these file to test the compiler. This file also copied to JayPascal folder for quick access from the application.
+
+LICENSE
+=========
+The project is released under MIT License. See details on LICENSE file.
