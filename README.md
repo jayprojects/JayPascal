@@ -5,8 +5,8 @@ It can compile Pascal source code and produce corresponding assembly source code
 
 Installation:
 =========
-1.	Copy the “masm32” folder to c: drive. JayPascal folder has the JayPascal.exe file. This the main executable file of my project.
-2.	Copy JayPascal to local drive. Run JayPascal.exe
+1.	Copy the “masm32” folder to C drive. 
+2.	After you run the Visual Studio project look up Bin\Debug.
 
 
 Indluded Folders:
